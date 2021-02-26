@@ -75,7 +75,16 @@ vignettes/*.pdf
 # R package: bookdown caching files
 /*_files/
 
-# End of https://www.toptal.com/developers/gitignore/api/r,macos
+### Data files ###
+*.csv
+*.rds
+*.txt
+*.xls
+*.xlsx
+
 
 #python checkpoint
 **/.ipynb_checkpoints
+
+
+# End of https://www.toptal.com/developers/gitignore/api/r,macos
