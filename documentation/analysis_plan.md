@@ -5,11 +5,11 @@ Project: Predicting Loan Defaults
 # Analysis Plan
 
 ### Business Requirement
-LendingClub would like to gain an understanding on applications which are more likely to lead to loan default, as well as those which are more likely to be paid off loans in full. 
+LendingClub would like to gain an understanding on applications which are more likely to lead to loan default, as well as those which are more likely to be paid off in full. 
 
 ### Project Outline
 
-This project will include analysis to identify trends and give insights into factors which affect default rates on LendingClub loans. Data visualisations will also be created, as well as a predictive model. 
+This project will include analysis to identify trends and give insights into factors which affect default rates on LendingClub loans. Data visualisations will be created to give LendingClub a clear visualisation of insights, as well as a predictive model to help LendingClub identify who they should lend to in the future. 
 
 The analysis will be documented in the form of a report, as well as presentation to ensure appropriate sharing once the project is complete. All cleaning, analysis and documentation files will also be held in a [GitHub](https://www.github.com/stephanieduncan/predicting_defaults_project) repository.
 

@@ -1,0 +1,25 @@
+---
+title: "R Notebook"
+output: html_notebook
+---
+
+```{r}
+library(tidyverse)
+```
+
+```{r}
+lc_loans <- read_csv("d6_classnotes/week_12/day_5/final_project_briefs/predicting_defaults_brief/data/lending_club_loans.csv")
+```
+
+```{r}
+state_names <- read_csv("d6_classnotes/week_12/day_5/final_project_briefs/predicting_defaults_brief/data/state_names_info.csv")
+```
+
+```{r}
+grade_info <- read_csv("d6_classnotes/week_12/day_5/final_project_briefs/predicting_defaults_brief/data/grade_info.csv")
+```
+
+```{r}
+data_dictionary <- read_csv("d6_classnotes/week_12/day_5/final_project_briefs/predicting_defaults_brief/data/LCDataDictionary.csv")
+```
+
