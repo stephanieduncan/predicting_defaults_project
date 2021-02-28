@@ -33,4 +33,11 @@ The data sets are linked as both the grades and states datasets can be merged wi
 After taking an initial look at the data, there are fields which give an individual's annual income, as well as the monthly installment amount of an approved loan. I will create a variable which shows the monthly repayment expense as a percentage of monthly income, which will then be used to compare the correlation between the target variable 'loans status'.
 
 ### Data Model Diagram 
+#### Predicting Loan Defaults for LendingClub
+
+* How do defaults differ between states?
+* Are home ownership and loan status related?
+* Are grades and loan status related?
+* How does the monthly repayment expense represented as a percentage of monthly income relate to loan status?
+
 ![](data_model.png)
