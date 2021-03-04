@@ -16,7 +16,7 @@ The analysis will be documented in the form of a report and a presentation will 
 ### Data
 The data used is provided by LendingClub, an online loan provider, who also provided a data dictionary. There are three datasets which will be used:
 
-* Loans - containing information on loans between 2008 and 2011.
+* Loans - containing information on loans between 2007 and 2011.
 * Grades - showing the grades which relate to subgrades.
 * States - showing the full names which relate to each state abbreviation.
 
