@@ -5,9 +5,9 @@ by Stephanie Duncan </br>
 # Project Objective
 
 
-This project will include analysis to identify trends and give insights into factors which affect default rates on LendingClub loans. Data visualisations will be created to give LendingClub a clear visualisation of insights, as well as a predictive model to help identify who LendingClub should lend to in the future.
+This project includes analysis to identify trends and give insights into factors which affect default rates on LendingClub loans between 2007 - 2011. Data visualisations were created to give LendingClub a clear visualisation of insights, as well as a predictive model to help identify who LendingClub should lend to in the future.
 
-The data has been provided by LendingClub (open source) and covers 2007 to 2011. Data cleaning, analysis and modelling will be carried out in Python.
+Data cleaning, analysis and modelling were carried out in Python.
 
 # Data Cleaning
 
